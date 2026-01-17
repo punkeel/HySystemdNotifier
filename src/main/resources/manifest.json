@@ -1,0 +1,14 @@
+{
+  "Group": "com.punkeel",
+  "Name": "HySystemdNotifier",
+  "Version": "1.0",
+  "Authors": [
+    {
+      "Name": "punkeel"
+    }
+  ],
+  "Description": "Hytale server plugin for systemd integration and watchdog functionality.",
+  "Website": "https://github.com/punkeel/HySystemdNotifier",
+    "Main": "com.punkeel.hysystemdnotifier.SystemdNotifierPlugin",
+  "ServerVersion": "*"
+}
